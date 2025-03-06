@@ -1,3 +1,4 @@
+
 # Patient Portal Management System
 
 The Patient Portal Management System is a robust web application designed to streamline healthcare management. It provides secure access for patients, doctors, and administrators to manage appointments, payments, notifications, lab results, and more—all through a set of RESTful API endpoints.
@@ -63,7 +64,9 @@ The Patient Portal Management System is a robust web application designed to str
 Visit http://localhost:8000/admin/ to access the admin panel.
 Configuration
 
+
 ## Environment Variables:
+
     Create a .env file (or configure your environment) with variables such as SECRET_KEY, DATABASE_URL, and any API keys required for third-party integrations.
 
     Settings:
@@ -169,6 +172,7 @@ The application provides the following endpoints. Each endpoint supports standar
 
 ## Contributing
 
+
 Contributions are welcome! Please follow these steps to contribute:
 
     Fork the repository.
@@ -179,4 +183,6 @@ Contributions are welcome! Please follow these steps to contribute:
 Ensure your code adheres to the project’s coding standards and passes all tests.
 License
 
+
 ## This project is licensed under the MIT License.
+
